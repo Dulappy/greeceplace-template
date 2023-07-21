@@ -1,0 +1,29 @@
+{
+
+  "contact": "https://discord.gg/ECqsZUuEa3 r/greeceplace",
+
+  "templates": [
+
+    {
+
+      "name": "Greek flag",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/1131611905501438133/1131929104128675902/image.png"
+
+      ],
+
+      "x": -342,
+
+      "y": 43
+
+    }
+
+  ],
+
+  "whitelist": [],
+
+  "blacklist": []
+
+}
